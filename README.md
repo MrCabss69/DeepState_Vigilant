@@ -11,7 +11,9 @@ Data Source: https://deepstatemap.live
 DeepState_Vigilant is designed to periodically scrape the Deep State Map and save a screenshot of the current state of the map in a designated 'images' folder. Each screenshot is timestamped for easy reference. By default, the script captures and saves a screenshot every 12 hours.
 
 The script employs the Selenium WebDriver for Firefox (GeckoDriver) to automate the browser interactions required for the scraping process. It is designed to run in headless mode, meaning it operates without opening a physical browser window. However, it can also be run in a non-headless mode for debugging purposes.
-July, 28 - 2023
+
+
+#### July, 28 - 2023
 ![screenshot_1690520361 4813125](https://github.com/MrCabss69/DeepState_Vigilant/assets/48258972/f32f5004-6bd4-4776-b41c-942e0fc9c370)
 
 ## Suggestion
