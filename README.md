@@ -29,6 +29,7 @@ For debugging replace:
         web_navigator = DeepstateNavigator()
 
 with:
+
         web_navigator = DeepstateNavigator(False)
 
 This will exec the script on main thread, and you will see the actions live on your browser
