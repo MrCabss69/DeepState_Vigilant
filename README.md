@@ -16,6 +16,8 @@ The script employs the Selenium WebDriver for Firefox (GeckoDriver) to automate 
 #### July, 28 - 2023
 ![screenshot_1690520361 4813125](https://github.com/MrCabss69/DeepState_Vigilant/assets/48258972/f32f5004-6bd4-4776-b41c-942e0fc9c370)
 
+#### October, 30 - 2023
+![screenshot_1698618378 7576723](https://github.com/MrCabss69/DeepState_Vigilant/assets/48258972/44f35b36-44f7-4d35-b7c3-13bee6209b66)
 ## Suggestion
 To ensure that the script runs continuously without the need for manual intervention, consider implementing it as an operating system service. This will allow the script to automatically restart with your computer.
 
@@ -29,6 +31,7 @@ For debugging replace:
         web_navigator = DeepstateNavigator()
 
 with:
+
 
         web_navigator = DeepstateNavigator(False)
 
