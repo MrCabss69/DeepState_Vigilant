@@ -1,4 +1,4 @@
-# DeepState_Vigilant
+![screenshot_1703947452 9943547](https://github.com/MrCabss69/DeepState_Vigilant/assets/48258972/3b357e61-2c51-496f-b22a-45c926705d7f)# DeepState_Vigilant
 
 DeepState_Vigilant is a Python script designed to monitor the ongoing war situation in Ukraine. It has been tested and verified on Linux, Fedora 38.
 
@@ -18,6 +18,11 @@ The script employs the Selenium WebDriver for Firefox (GeckoDriver) to automate 
 
 #### October, 30 - 2023
 ![screenshot_1698618378 7576723](https://github.com/MrCabss69/DeepState_Vigilant/assets/48258972/44f35b36-44f7-4d35-b7c3-13bee6209b66)
+
+#### December, 30 - 2023
+![screenshot_1703947452 9943547](https://github.com/MrCabss69/DeepState_Vigilant/assets/48258972/e71a77a3-386b-46d3-9a01-6dd7d4954b91)
+
+
 ## Suggestion
 To ensure that the script runs continuously without the need for manual intervention, consider implementing it as an operating system service. This will allow the script to automatically restart with your computer.
 
